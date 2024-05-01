@@ -114,7 +114,9 @@ if (site) {
     search = document.getElementById('search');
     search_box = document.getElementById('search_box');
     suggestions = document.getElementById('suggestions');
+    cross_button = document.getElementById('cross_button');
     search_item.addEventListener('keyup', () => {
+        cross_button.style.display = 'block';
         fetch('final_movie_details.json')
             .then(response => response.json())
             .then(data => {
@@ -211,6 +213,7 @@ if (site) {
             });
     }
     search_item.addEventListener('keyup', (e) => {
+        cross_button.style.display = 'block';
         if (e.key === 'Enter' || e.keyCode === 13) {
             // localStorage.getItem('movies');
             suggestion_press();
