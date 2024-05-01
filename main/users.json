@@ -1,0 +1,24 @@
+[
+    {
+        "username": "a",
+        "password": "12345678",
+        "email": "23B0928@iitb.ac.in"
+    },
+    {
+        "username": "ab",
+        "password": "12345678",
+        "email": "23B0928@iitb.ac.in"
+    },
+    {
+        "username": "aditi",
+        "name": "aditi",
+        "password": "aditi1234",
+        "email": "23B0928@iitb.ac.in"
+    },
+    {
+        "username": "sanj10",
+        "name": "Sanjay Singhal",
+        "password": "San@1000",
+        "email": "ss.bhuvik24@gmail.com"
+    }
+]

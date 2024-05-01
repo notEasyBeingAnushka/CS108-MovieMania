@@ -1,0 +1,2166 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "year": "(1994)",
+        "rating": "9.3",
+        "age_rating": "A",
+        "duartion": "142 min",
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+        "director": "Frank Darabont",
+        "stars": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton",
+            "William Sadler"
+        ],
+        "gross": "$28.34M"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "(2008)",
+        "rating": "9",
+        "age_rating": "UA",
+        "duartion": "152 min",
+        "genre": [
+            "Action",
+            " Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "director": "Christopher Nolan",
+        "stars": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart",
+            "Michael Caine"
+        ],
+        "gross": "$534.86M"
+    },
+    {
+        "title": "Schindler's List",
+        "year": "(1993)",
+        "rating": "9",
+        "age_rating": "A",
+        "duartion": "195 min",
+        "genre": [
+            "Biography",
+            " Drama",
+            " History"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "In German-occupied Poland during World War II, industrialist\n             \n              Oskar Schindler\n             \n             gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "director": "Steven Spielberg",
+        "stars": [
+            "Liam Neeson",
+            "Ralph Fiennes",
+            "Ben Kingsley",
+            "Caroline Goodall"
+        ],
+        "gross": "$96.90M"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "(2003)",
+        "rating": "9",
+        "age_rating": "U",
+        "duartion": "201 min",
+        "genre": [
+            "Action",
+            " Adventure",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "director": "Peter Jackson",
+        "stars": [
+            "Elijah Wood",
+            "Viggo Mortensen",
+            "Ian McKellen",
+            "Orlando Bloom"
+        ],
+        "gross": "$377.85M"
+    },
+    {
+        "title": "12 Angry Men",
+        "year": "(1957)",
+        "rating": "9",
+        "age_rating": "U",
+        "duartion": "96 min",
+        "genre": [
+            "Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+        "director": "Sidney Lumet",
+        "stars": [
+            "Henry Fonda",
+            "Lee J. Cobb",
+            "Martin Balsam",
+            "John Fiedler"
+        ],
+        "gross": "$4.36M"
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "(1994)",
+        "rating": "8.9",
+        "age_rating": "A",
+        "duartion": "154 min",
+        "genre": [
+            "Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR2,0,140,209_AL_.jpg",
+        "summary": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "director": "Quentin Tarantino",
+        "stars": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson",
+            "Bruce Willis"
+        ],
+        "gross": "$107.93M"
+    },
+    {
+        "title": "Inception",
+        "year": "(2010)",
+        "rating": "8.8",
+        "age_rating": "UA",
+        "duartion": "148 min",
+        "genre": [
+            "Action",
+            " Adventure",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+        "director": "Christopher Nolan",
+        "stars": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page",
+            "Ken Watanabe"
+        ],
+        "gross": "$292.58M"
+    },
+    {
+        "title": "Fight Club",
+        "year": "(1999)",
+        "rating": "8.8",
+        "age_rating": "A",
+        "duartion": "139 min",
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "director": "David Fincher",
+        "stars": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Meat Loaf",
+            "Zach Grenier"
+        ],
+        "gross": "$37.03M"
+    },
+    {
+        "title": "Forrest Gump",
+        "year": "(1994)",
+        "rating": "8.8",
+        "age_rating": "UA",
+        "duartion": "142 min",
+        "genre": [
+            "Drama",
+            " Romance"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR2,0,140,209_AL_.jpg",
+        "summary": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+        "director": "Robert Zemeckis",
+        "stars": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise",
+            "Sally Field"
+        ],
+        "gross": "$330.25M"
+    },
+    {
+        "title": "Il buono, il brutto, il cattivo",
+        "year": "(1966)",
+        "rating": "8.8",
+        "age_rating": "A",
+        "duartion": "161 min",
+        "genre": [
+            "Adventure",
+            " Western"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "director": "Sergio Leone",
+        "stars": [
+            "Clint Eastwood",
+            "Eli Wallach",
+            "Lee Van Cleef",
+            "Aldo Giuffrè"
+        ],
+        "gross": "$6.10M"
+    },
+    {
+        "title": "The Matrix",
+        "year": "(1999)",
+        "rating": "8.7",
+        "age_rating": "A",
+        "duartion": "136 min",
+        "genre": [
+            "Action",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "director": "Lana Wachowski",
+        "stars": [
+            "Lilly Wachowski",
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss",
+            "Hugo Weaving"
+        ],
+        "gross": "$171.48M"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": "(1975)",
+        "rating": "8.7",
+        "age_rating": "A",
+        "duartion": "133 min",
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.",
+        "director": "Milos Forman",
+        "stars": [
+            "Jack Nicholson",
+            "Louise Fletcher",
+            "Michael Berryman",
+            "Peter Brocco"
+        ],
+        "gross": "$112.00M"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": "(1980)",
+        "rating": "8.7",
+        "age_rating": "UA",
+        "duartion": "124 min",
+        "genre": [
+            "Action",
+            " Adventure",
+            " Fantasy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "After the Rebel Alliance are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+        "director": "Irvin Kershner",
+        "stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher",
+            "Billy Dee Williams"
+        ],
+        "gross": "$290.48M"
+    },
+    {
+        "title": "The Green Mile",
+        "year": "(1999)",
+        "rating": "8.6",
+        "age_rating": "UA",
+        "duartion": "189 min",
+        "genre": [
+            "Crime",
+            " Drama",
+            " Fantasy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "A tale set on death row, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the lead guard, Paul Edgecombe, recognizes John's gift, he tries to help stave off the condemned man's execution.",
+        "director": "Frank Darabont",
+        "stars": [
+            "Tom Hanks",
+            "Michael Clarke Duncan",
+            "David Morse",
+            "Bonnie Hunt"
+        ],
+        "gross": "$136.80M"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": "(1991)",
+        "rating": "8.6",
+        "age_rating": "A",
+        "duartion": "118 min",
+        "genre": [
+            "Crime",
+            " Drama",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR1,0,140,209_AL_.jpg",
+        "summary": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "director": "Jonathan Demme",
+        "stars": [
+            "Jodie Foster",
+            "Anthony Hopkins",
+            "Scott Glenn",
+            "Ted Levine"
+        ],
+        "gross": "$130.74M"
+    },
+    {
+        "title": "Se7en",
+        "year": "(1995)",
+        "rating": "8.6",
+        "age_rating": "A",
+        "duartion": "127 min",
+        "genre": [
+            "Crime",
+            " Drama",
+            " Mystery"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "director": "David Fincher",
+        "stars": [
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Kevin Spacey",
+            "Andrew Kevin Walker"
+        ],
+        "gross": "$100.13M"
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": "(1991)",
+        "rating": "8.6",
+        "age_rating": "A",
+        "duartion": "137 min",
+        "genre": [
+            "Action",
+            " Adventure",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg.",
+        "director": "James Cameron",
+        "stars": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Edward Furlong",
+            "Robert Patrick"
+        ],
+        "gross": "$204.84M"
+    },
+    {
+        "title": "Star Wars",
+        "year": "(1977)",
+        "rating": "8.6",
+        "age_rating": "U",
+        "duartion": "121 min",
+        "genre": [
+            "Action",
+            " Adventure",
+            " Fantasy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+        "director": "George Lucas",
+        "stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher",
+            "Alec Guinness"
+        ],
+        "gross": "$322.74M"
+    },
+    {
+        "title": "Sen to Chihiro no kamikakushi",
+        "year": "(2001)",
+        "rating": "8.6",
+        "age_rating": "U",
+        "duartion": "125 min",
+        "genre": [
+            "Animation",
+            " Adventure",
+            " Family"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts.",
+        "director": "Hayao Miyazaki",
+        "stars": [
+            "Daveigh Chase",
+            "Suzanne Pleshette",
+            "Miyu Irino",
+            "Rumi Hiiragi"
+        ],
+        "gross": "$10.06M"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": "(1998)",
+        "rating": "8.6",
+        "age_rating": "A",
+        "duartion": "169 min",
+        "genre": [
+            "Drama",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY209_CR1,0,140,209_AL_.jpg",
+        "summary": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "director": "Steven Spielberg",
+        "stars": [
+            "Tom Hanks",
+            "Matt Damon",
+            "Tom Sizemore",
+            "Edward Burns"
+        ],
+        "gross": "$216.54M"
+    },
+    {
+        "title": "Cidade de Deus",
+        "year": "(2002)",
+        "rating": "8.6",
+        "age_rating": "A",
+        "duartion": "130 min",
+        "genre": [
+            "Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR1,0,140,209_AL_.jpg",
+        "summary": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "director": "Fernando Meirelles",
+        "stars": [
+            "Kátia Lund",
+            "Alexandre Rodrigues",
+            "Leandro Firmino",
+            "Matheus Nachtergaele",
+            "Phellipe Haagensen"
+        ],
+        "gross": "$7.56M"
+    },
+    {
+        "title": "La vita è bella",
+        "year": "(1997)",
+        "rating": "8.6",
+        "age_rating": "U",
+        "duartion": "116 min",
+        "genre": [
+            "Comedy",
+            " Drama",
+            " Romance"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
+        "director": "Roberto Benigni",
+        "stars": [
+            "Roberto Benigni",
+            "Nicoletta Braschi",
+            "Giorgio Cantarini",
+            "Giustino Durano"
+        ],
+        "gross": "$57.60M"
+    },
+    {
+        "title": "Seven Samurai",
+        "year": "(1954)",
+        "rating": "8.6",
+        "age_rating": "U",
+        "duartion": "207 min",
+        "genre": [
+            "Action",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNTkwY2I5NWMtMjNlNi00ZThjLWI4NzQtNDI4M2I4OGM1YjAzXkEyXkFqcGdeQXVyNzYxODE3NTQ@._V1_UY209_CR4,0,140,209_AL_.jpg",
+        "summary": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.",
+        "director": "Akira Kurosawa",
+        "stars": [
+            "Toshirô Mifune",
+            "Takashi Shimura",
+            "Keiko Tsushima",
+            "Yukiko Shimazaki"
+        ],
+        "gross": "$0.27M"
+    },
+    {
+        "title": "Gladiator",
+        "year": "(2000)",
+        "rating": "8.5",
+        "age_rating": "UA",
+        "duartion": "155 min",
+        "genre": [
+            "Action",
+            " Adventure",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "director": "Ridley Scott",
+        "stars": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen",
+            "Oliver Reed"
+        ],
+        "gross": "$187.71M"
+    },
+    {
+        "title": "Gisaengchung",
+        "year": "(2019)",
+        "rating": "8.5",
+        "age_rating": "A",
+        "duartion": "132 min",
+        "genre": [
+            "Drama",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "Greed and class discrimination threaten the newly-formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "director": "Bong Joon Ho",
+        "stars": [
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong",
+            "Choi Woo-sik"
+        ],
+        "gross": "$53.37M"
+    },
+    {
+        "title": "Alien",
+        "year": "(1979)",
+        "rating": "8.5",
+        "age_rating": "R",
+        "duartion": "117 min",
+        "genre": [
+            "Horror",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "The crew of a commercial spacecraft encounters a deadly lifeform after investigating a mysterious transmission of unknown origin.",
+        "director": "Ridley Scott",
+        "stars": [
+            "Sigourney Weaver",
+            "Tom Skerritt",
+            "John Hurt",
+            "Veronica Cartwright"
+        ],
+        "gross": "$78.90M"
+    },
+    {
+        "title": "The Prestige",
+        "year": "(2006)",
+        "rating": "8.5",
+        "age_rating": "U",
+        "duartion": "130 min",
+        "genre": [
+            "Drama",
+            " Mystery",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+        "director": "Christopher Nolan",
+        "stars": [
+            "Christian Bale",
+            "Hugh Jackman",
+            "Scarlett Johansson",
+            "Michael Caine"
+        ],
+        "gross": "$53.09M"
+    },
+    {
+        "title": "The Departed",
+        "year": "(2006)",
+        "rating": "8.5",
+        "age_rating": "A",
+        "duartion": "151 min",
+        "genre": [
+            "Crime",
+            " Drama",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "director": "Martin Scorsese",
+        "stars": [
+            "Leonardo DiCaprio",
+            "Matt Damon",
+            "Jack Nicholson",
+            "Mark Wahlberg"
+        ],
+        "gross": "$132.38M"
+    },
+    {
+        "title": "Léon",
+        "year": "(1994)",
+        "rating": "8.5",
+        "age_rating": "A",
+        "duartion": "110 min",
+        "genre": [
+            "Action",
+            " Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+        "director": "Luc Besson",
+        "stars": [
+            "Jean Reno",
+            "Gary Oldman",
+            "Natalie Portman",
+            "Danny Aiello"
+        ],
+        "gross": "$19.50M"
+    },
+    {
+        "title": "The Usual Suspects",
+        "year": "(1995)",
+        "rating": "8.5",
+        "age_rating": "A",
+        "duartion": "106 min",
+        "genre": [
+            "Crime",
+            " Drama",
+            " Mystery"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup.",
+        "director": "Bryan Singer",
+        "stars": [
+            "Kevin Spacey",
+            "Gabriel Byrne",
+            "Chazz Palminteri",
+            "Stephen Baldwin"
+        ],
+        "gross": "$23.34M"
+    },
+    {
+        "title": "The Lion King",
+        "year": "(1994)",
+        "rating": "8.5",
+        "age_rating": "U",
+        "duartion": "88 min",
+        "genre": [
+            "Animation",
+            " Adventure",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+        "director": "Roger Allers",
+        "stars": [
+            "Rob Minkoff",
+            "Matthew Broderick",
+            "Jeremy Irons",
+            "James Earl Jones",
+            "Whoopi Goldberg"
+        ],
+        "gross": "$422.78M"
+    },
+    {
+        "title": "American History X",
+        "year": "(1998)",
+        "rating": "8.5",
+        "age_rating": "R",
+        "duartion": "119 min",
+        "genre": [
+            "Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "Living a life marked by violence, neo-Nazi Derek finally goes to prison after killing two black youths. Upon his release, Derek vows to change; he hopes to prevent his brother, Danny, who idolizes Derek, from following in his footsteps.",
+        "director": "Tony Kaye",
+        "stars": [
+            "Edward Norton",
+            "Edward Furlong",
+            "Beverly D'Angelo",
+            "Jennifer Lien"
+        ],
+        "gross": "$6.72M"
+    },
+    {
+        "title": "The Pianist",
+        "year": "(2002)",
+        "rating": "8.5",
+        "age_rating": "13",
+        "duartion": "150 min",
+        "genre": [
+            "Biography",
+            " Drama",
+            " Music"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR5,0,140,209_AL_.jpg",
+        "summary": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.",
+        "director": "Roman Polanski",
+        "stars": [
+            "Adrien Brody",
+            "Thomas Kretschmann",
+            "Frank Finlay",
+            "Emilia Fox"
+        ],
+        "gross": "$32.57M"
+    },
+    {
+        "title": "Psycho",
+        "year": "(1960)",
+        "rating": "8.5",
+        "age_rating": "A",
+        "duartion": "109 min",
+        "genre": [
+            "Horror",
+            " Mystery",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Anthony Perkins",
+            "Janet Leigh",
+            "Vera Miles",
+            "John Gavin"
+        ],
+        "gross": "$32.00M"
+    },
+    {
+        "title": "The Intouchables",
+        "year": "(2011)",
+        "rating": "8.5",
+        "age_rating": "UA",
+        "duartion": "112 min",
+        "genre": [
+            "Comedy",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+        "director": "Olivier Nakache",
+        "stars": [
+            "Éric Toledano",
+            "François Cluzet",
+            "Omar Sy",
+            "Anne Le Ny",
+            "Audrey Fleurot"
+        ],
+        "gross": "$13.18M"
+    },
+    {
+        "title": "Hotaru no haka",
+        "year": "(1988)",
+        "rating": "8.5",
+        "age_rating": "U",
+        "duartion": "89 min",
+        "genre": [
+            "Animation",
+            " Drama",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "A young boy and his little sister struggle to survive in Japan during World War II.",
+        "director": "Isao Takahata",
+        "stars": [
+            "Tsutomu Tatsumi",
+            "Ayano Shiraishi",
+            "Akemi Yamaguchi",
+            "Yoshiko Shinohara"
+        ],
+        "gross": null
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "year": "(1968)",
+        "rating": "8.5",
+        "age_rating": "U",
+        "duartion": "166 min",
+        "genre": [
+            "Western"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+        "director": "Sergio Leone",
+        "stars": [
+            "Henry Fonda",
+            "Charles Bronson",
+            "Claudia Cardinale",
+            "Jason Robards"
+        ],
+        "gross": "$5.32M"
+    },
+    {
+        "title": "Modern Times",
+        "year": "(1936)",
+        "rating": "8.5",
+        "age_rating": "G",
+        "duartion": "87 min",
+        "genre": [
+            "Comedy",
+            " Drama",
+            " Romance"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BM2VlMjY3N2UtN2ZjNC00MDg4LWI3ZGQtZmE4NjZkZjkwZmYzXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+        "director": "Charles Chaplin",
+        "stars": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Henry Bergman",
+            "Tiny Sandford"
+        ],
+        "gross": "$0.16M"
+    },
+    {
+        "title": "Joker",
+        "year": "(I) (2019)",
+        "rating": "8.4",
+        "age_rating": "A",
+        "duartion": "122 min",
+        "genre": [
+            "Crime",
+            " Drama",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+        "director": "Todd Phillips",
+        "stars": [
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz",
+            "Frances Conroy"
+        ],
+        "gross": "$335.45M"
+    },
+    {
+        "title": "Amadeus",
+        "year": "(1984)",
+        "rating": "8.4",
+        "age_rating": "R",
+        "duartion": "160 min",
+        "genre": [
+            "Biography",
+            " Drama",
+            " Music"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "The life, success and troubles of\n             \n              Wolfgang Amadeus Mozart\n             \n             , as told by\n             \n              Antonio Salieri\n             \n             , the contemporaneous composer who was deeply jealous of Mozart's talent and claimed to have murdered him.",
+        "director": "Milos Forman",
+        "stars": [
+            "F. Murray Abraham",
+            "Tom Hulce",
+            "Elizabeth Berridge",
+            "Roy Dotrice"
+        ],
+        "gross": "$51.97M"
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": "(1979)",
+        "rating": "8.4",
+        "age_rating": "R",
+        "duartion": "147 min",
+        "genre": [
+            "Drama",
+            " Mystery",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+        "director": "Francis Ford Coppola",
+        "stars": [
+            "Martin Sheen",
+            "Marlon Brando",
+            "Robert Duvall",
+            "Frederic Forrest"
+        ],
+        "gross": "$83.47M"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": "(2009)",
+        "rating": "8.4",
+        "age_rating": "A",
+        "duartion": "153 min",
+        "genre": [
+            "Adventure",
+            " Drama",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+        "director": "Quentin Tarantino",
+        "stars": [
+            "Brad Pitt",
+            "Diane Kruger",
+            "Eli Roth",
+            "Mélanie Laurent"
+        ],
+        "gross": "$120.54M"
+    },
+    {
+        "title": "Aliens",
+        "year": "(1986)",
+        "rating": "8.4",
+        "age_rating": "U",
+        "duartion": "137 min",
+        "genre": [
+            "Action",
+            " Adventure",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOGJkY2EyOWYtYWRmNy00ZTEzLTllMDAtYzYzYjA0ZjFhZWJjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.",
+        "director": "James Cameron",
+        "stars": [
+            "Sigourney Weaver",
+            "Michael Biehn",
+            "Carrie Henn",
+            "Paul Reiser"
+        ],
+        "gross": "$85.16M"
+    },
+    {
+        "title": "Memento",
+        "year": "(2000)",
+        "rating": "8.4",
+        "age_rating": "UA",
+        "duartion": "113 min",
+        "genre": [
+            "Mystery",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR1,0,140,209_AL_.jpg",
+        "summary": "A man with short-term memory loss attempts to track down his wife's murderer.",
+        "director": "Christopher Nolan",
+        "stars": [
+            "Guy Pearce",
+            "Carrie-Anne Moss",
+            "Joe Pantoliano",
+            "Mark Boone Junior"
+        ],
+        "gross": "$25.54M"
+    },
+    {
+        "title": "The Shining",
+        "year": "(1980)",
+        "rating": "8.4",
+        "age_rating": "A",
+        "duartion": "146 min",
+        "genre": [
+            "Drama",
+            " Horror"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+        "director": "Stanley Kubrick",
+        "stars": [
+            "Jack Nicholson",
+            "Shelley Duvall",
+            "Danny Lloyd",
+            "Scatman Crothers"
+        ],
+        "gross": "$44.02M"
+    },
+    {
+        "title": "Kimi no na wa.",
+        "year": "(2016)",
+        "rating": "8.4",
+        "age_rating": "U",
+        "duartion": "106 min",
+        "genre": [
+            "Animation",
+            " Drama",
+            " Fantasy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",
+        "director": "Makoto Shinkai",
+        "stars": [
+            "Ryunosuke Kamiki",
+            "Mone Kamishiraishi",
+            "Ryo Narita",
+            "Aoi Yûki"
+        ],
+        "gross": "$5.02M"
+    },
+    {
+        "title": "WALL·E",
+        "year": "(2008)",
+        "rating": "8.4",
+        "age_rating": "U",
+        "duartion": "98 min",
+        "genre": [
+            "Animation",
+            " Adventure",
+            " Family"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+        "director": "Andrew Stanton",
+        "stars": [
+            "Ben Burtt",
+            "Elissa Knight",
+            "Jeff Garlin",
+            "Fred Willard"
+        ],
+        "gross": "$223.81M"
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": "(1964)",
+        "rating": "8.4",
+        "age_rating": "A",
+        "duartion": "95 min",
+        "genre": [
+            "Comedy",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMWMxYjZkOWUtM2FjMi00MmI1LThkNzQtNTM5Y2E2ZGQ2NGFhXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "An unhinged American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+        "director": "Stanley Kubrick",
+        "stars": [
+            "Peter Sellers",
+            "George C. Scott",
+            "Sterling Hayden",
+            "Keenan Wynn"
+        ],
+        "gross": "$0.28M"
+    },
+    {
+        "title": "The Lives of Others",
+        "year": "(2006)",
+        "rating": "8.4",
+        "age_rating": "A",
+        "duartion": "137 min",
+        "genre": [
+            "Drama",
+            " Mystery",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "In 1984 East Berlin, an agent of the secret police conducting surveillance on a writer and his lover finds himself becoming increasingly absorbed by their lives.",
+        "director": "Florian Henckel von Donnersmarck",
+        "stars": [
+            "Ulrich Mühe",
+            "Martina Gedeck",
+            "Sebastian Koch",
+            "Ulrich Tukur"
+        ],
+        "gross": "$11.29M"
+    },
+    {
+        "title": "Paths of Glory",
+        "year": "(1957)",
+        "rating": "8.4",
+        "age_rating": "A",
+        "duartion": "88 min",
+        "genre": [
+            "Drama",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "After a failed attack on a German position, a general orders three soldiers, chosen at random, court-martialed for cowardice and their commanding officer must defend them.",
+        "director": "Stanley Kubrick",
+        "stars": [
+            "Kirk Douglas",
+            "Ralph Meeker",
+            "Adolphe Menjou",
+            "George Macready"
+        ],
+        "gross": null
+    },
+    {
+        "title": "The Great Dictator",
+        "year": "(1940)",
+        "rating": "8.4",
+        "age_rating": "G",
+        "duartion": "125 min",
+        "genre": [
+            "Comedy",
+            " Drama",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+        "director": "Charles Chaplin",
+        "stars": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Jack Oakie",
+            "Reginald Gardiner"
+        ],
+        "gross": "$0.29M"
+    },
+    {
+        "title": "Oppenheimer",
+        "year": "(I) (2023)",
+        "rating": "8.3",
+        "age_rating": "R",
+        "duartion": "180 min",
+        "genre": [
+            "Biography",
+            " Drama",
+            " History"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "The story of American scientist\n             \n              J. Robert Oppenheimer\n             \n             and his role in the development of the atomic bomb.",
+        "director": "Christopher Nolan",
+        "stars": [
+            "Cillian Murphy",
+            "Emily Blunt",
+            "Matt Damon",
+            "Robert Downey Jr."
+        ],
+        "gross": "$326.11M"
+    },
+    {
+        "title": "Heat",
+        "year": "(1995)",
+        "rating": "8.3",
+        "age_rating": "A",
+        "duartion": "170 min",
+        "genre": [
+            "Action",
+            " Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR2,0,140,209_AL_.jpg",
+        "summary": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist.",
+        "director": "Michael Mann",
+        "stars": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Val Kilmer",
+            "Jon Voight"
+        ],
+        "gross": "$67.44M"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": "(2004)",
+        "rating": "8.3",
+        "age_rating": "UA",
+        "duartion": "108 min",
+        "genre": [
+            "Drama",
+            " Romance",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories forever.",
+        "director": "Michel Gondry",
+        "stars": [
+            "Jim Carrey",
+            "Kate Winslet",
+            "Tom Wilkinson",
+            "Gerry Robert Byrne"
+        ],
+        "gross": "$34.40M"
+    },
+    {
+        "title": "American Beauty",
+        "year": "(1999)",
+        "rating": "8.3",
+        "age_rating": "UA",
+        "duartion": "122 min",
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+        "director": "Sam Mendes",
+        "stars": [
+            "Kevin Spacey",
+            "Annette Bening",
+            "Thora Birch",
+            "Wes Bentley"
+        ],
+        "gross": "$130.10M"
+    },
+    {
+        "title": "Requiem for a Dream",
+        "year": "(2000)",
+        "rating": "8.3",
+        "age_rating": "A",
+        "duartion": "102 min",
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep..",
+        "director": "Darren Aronofsky",
+        "stars": [
+            "Ellen Burstyn",
+            "Jared Leto",
+            "Jennifer Connelly",
+            "Marlon Wayans"
+        ],
+        "gross": "$3.64M"
+    },
+    {
+        "title": "Oldeuboi",
+        "year": "(2003)",
+        "rating": "8.3",
+        "age_rating": "A",
+        "duartion": "101 min",
+        "genre": [
+            "Action",
+            " Drama",
+            " Mystery"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must track down his captor in five days.",
+        "director": "Park Chan-wook",
+        "stars": [
+            "Choi Min-sik",
+            "Yoo Ji-tae",
+            "Kang Hye-jeong",
+            "Kim Byeong-Ok"
+        ],
+        "gross": "$0.71M"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": "(1968)",
+        "rating": "8.3",
+        "age_rating": "G",
+        "duartion": "149 min",
+        "genre": [
+            "Adventure",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins: a spacecraft manned by two men and the supercomputer HAL 9000.",
+        "director": "Stanley Kubrick",
+        "stars": [
+            "Keir Dullea",
+            "Gary Lockwood",
+            "William Sylvester",
+            "Daniel Richter"
+        ],
+        "gross": "$56.95M"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "year": "(1971)",
+        "rating": "8.3",
+        "age_rating": "A",
+        "duartion": "136 min",
+        "genre": [
+            "Crime",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+        "director": "Stanley Kubrick",
+        "stars": [
+            "Malcolm McDowell",
+            "Patrick Magee",
+            "Michael Bates",
+            "Warren Clarke"
+        ],
+        "gross": "$6.21M"
+    },
+    {
+        "title": "Scarface",
+        "year": "(1983)",
+        "rating": "8.3",
+        "age_rating": "A",
+        "duartion": "170 min",
+        "genre": [
+            "Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+        "director": "Brian De Palma",
+        "stars": [
+            "Al Pacino",
+            "Michelle Pfeiffer",
+            "Steven Bauer",
+            "Mary Elizabeth Mastrantonio"
+        ],
+        "gross": "$45.60M"
+    },
+    {
+        "title": "Braveheart",
+        "year": "(1995)",
+        "rating": "8.3",
+        "age_rating": "A",
+        "duartion": "178 min",
+        "genre": [
+            "Biography",
+            " Drama",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR1,0,140,209_AL_.jpg",
+        "summary": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+        "director": "Mel Gibson",
+        "stars": [
+            "Mel Gibson",
+            "Sophie Marceau",
+            "Patrick McGoohan",
+            "Angus Macfadyen"
+        ],
+        "gross": "$75.60M"
+    },
+    {
+        "title": "Reservoir Dogs",
+        "year": "(1992)",
+        "rating": "8.3",
+        "age_rating": "15+",
+        "duartion": "99 min",
+        "genre": [
+            "Crime",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+        "director": "Quentin Tarantino",
+        "stars": [
+            "Harvey Keitel",
+            "Tim Roth",
+            "Michael Madsen",
+            "Chris Penn"
+        ],
+        "gross": "$2.83M"
+    },
+    {
+        "title": "Incendies",
+        "year": "(2010)",
+        "rating": "8.3",
+        "age_rating": "18",
+        "duartion": "131 min",
+        "genre": [
+            "Drama",
+            " Mystery",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+        "director": "Denis Villeneuve",
+        "stars": [
+            "Lubna Azabal",
+            "Mélissa Désormeaux-Poulin",
+            "Maxim Gaudette",
+            "Mustafa Kamel"
+        ],
+        "gross": "$6.86M"
+    },
+    {
+        "title": "Full Metal Jacket",
+        "year": "(1987)",
+        "rating": "8.3",
+        "age_rating": "UA",
+        "duartion": "116 min",
+        "genre": [
+            "Drama",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+        "director": "Stanley Kubrick",
+        "stars": [
+            "Matthew Modine",
+            "R. Lee Ermey",
+            "Vincent D'Onofrio",
+            "Adam Baldwin"
+        ],
+        "gross": "$46.36M"
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": "(1983)",
+        "rating": "8.3",
+        "age_rating": "U",
+        "duartion": "131 min",
+        "genre": [
+            "Action",
+            " Adventure",
+            " Fantasy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "After rescuing Han Solo from Jabba the Hutt, the Rebel Alliance attempt to destroy the second Death Star, while Luke struggles to help Darth Vader back from the dark side.",
+        "director": "Richard Marquand",
+        "stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher",
+            "Billy Dee Williams"
+        ],
+        "gross": "$309.13M"
+    },
+    {
+        "title": "Up",
+        "year": "(2009)",
+        "rating": "8.3",
+        "age_rating": "U",
+        "duartion": "96 min",
+        "genre": [
+            "Animation",
+            " Adventure",
+            " Comedy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYjBkM2RjMzItM2M3Ni00N2NjLWE3NzMtMGY4MzE4MDAzMTRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+        "director": "Pete Docter",
+        "stars": [
+            "Bob Peterson",
+            "Edward Asner",
+            "Jordan Nagai",
+            "John Ratzenberger",
+            "Christopher Plummer"
+        ],
+        "gross": "$293.00M"
+    },
+    {
+        "title": "North by Northwest",
+        "year": "(1959)",
+        "rating": "8.3",
+        "age_rating": "U",
+        "duartion": "136 min",
+        "genre": [
+            "Action",
+            " Adventure",
+            " Mystery"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Cary Grant",
+            "Eva Marie Saint",
+            "James Mason",
+            "Jessie Royce Landis"
+        ],
+        "gross": "$13.28M"
+    },
+    {
+        "title": "Mononoke-hime",
+        "year": "(1997)",
+        "rating": "8.3",
+        "age_rating": "U",
+        "duartion": "134 min",
+        "genre": [
+            "Animation",
+            " Action",
+            " Adventure"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNjM3NGExNDctYmU0Yy00MTJjLThlNTItMjM4NDBjMGRiMmE5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+        "director": "Hayao Miyazaki",
+        "stars": [
+            "Yôji Matsuda",
+            "Yuriko Ishida",
+            "Yûko Tanaka",
+            "Billy Crudup"
+        ],
+        "gross": "$2.38M"
+    },
+    {
+        "title": "Toy Story 3",
+        "year": "(2010)",
+        "rating": "8.3",
+        "age_rating": "U",
+        "duartion": "103 min",
+        "genre": [
+            "Animation",
+            " Adventure",
+            " Comedy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY209_CR4,0,140,209_AL_.jpg",
+        "summary": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+        "director": "Lee Unkrich",
+        "stars": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Joan Cusack",
+            "Ned Beatty"
+        ],
+        "gross": "$415.00M"
+    },
+    {
+        "title": "Vertigo",
+        "year": "(1958)",
+        "rating": "8.3",
+        "age_rating": "A",
+        "duartion": "128 min",
+        "genre": [
+            "Mystery",
+            " Romance",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "James Stewart",
+            "Kim Novak",
+            "Barbara Bel Geddes",
+            "Tom Helmore"
+        ],
+        "gross": "$3.20M"
+    },
+    {
+        "title": "Citizen Kane",
+        "year": "(1941)",
+        "rating": "8.3",
+        "age_rating": "UA",
+        "duartion": "119 min",
+        "genre": [
+            "Drama",
+            " Mystery"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+        "director": "Orson Welles",
+        "stars": [
+            "Orson Welles",
+            "Joseph Cotten",
+            "Dorothy Comingore",
+            "Agnes Moorehead"
+        ],
+        "gross": "$1.59M"
+    },
+    {
+        "title": "Prisoners",
+        "year": "(2013)",
+        "rating": "8.2",
+        "age_rating": "A",
+        "duartion": "153 min",
+        "genre": [
+            "Crime",
+            " Drama",
+            " Mystery"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+        "director": "Denis Villeneuve",
+        "stars": [
+            "Hugh Jackman",
+            "Jake Gyllenhaal",
+            "Viola Davis",
+            "Melissa Leo"
+        ],
+        "gross": "$61.00M"
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": "(2007)",
+        "rating": "8.2",
+        "age_rating": "18",
+        "duartion": "122 min",
+        "genre": [
+            "Crime",
+            " Drama",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_UY209_CR1,0,140,209_AL_.jpg",
+        "summary": "Violence and mayhem ensue after a hunter stumbles upon the aftermath of a drug deal gone wrong and over two million dollars in cash near the Rio Grande.",
+        "director": "Ethan Coen",
+        "stars": [
+            "Joel Coen",
+            "Tommy Lee Jones",
+            "Javier Bardem",
+            "Josh Brolin",
+            "Woody Harrelson"
+        ],
+        "gross": "$74.28M"
+    },
+    {
+        "title": "Snatch",
+        "year": "(2000)",
+        "rating": "8.2",
+        "age_rating": "UA",
+        "duartion": "104 min",
+        "genre": [
+            "Comedy",
+            " Crime"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY209_CR1,0,140,209_AL_.jpg",
+        "summary": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+        "director": "Guy Ritchie",
+        "stars": [
+            "Jason Statham",
+            "Brad Pitt",
+            "Stephen Graham",
+            "Vinnie Jones"
+        ],
+        "gross": "$30.33M"
+    },
+    {
+        "title": "Green Book",
+        "year": "(2018)",
+        "rating": "8.2",
+        "age_rating": "UA",
+        "duartion": "130 min",
+        "genre": [
+            "Biography",
+            " Comedy",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+        "director": "Peter Farrelly",
+        "stars": [
+            "Viggo Mortensen",
+            "Mahershala Ali",
+            "Linda Cardellini",
+            "Sebastian Maniscalco"
+        ],
+        "gross": "$85.08M"
+    },
+    {
+        "title": "Shutter Island",
+        "year": "(2010)",
+        "rating": "8.2",
+        "age_rating": "A",
+        "duartion": "138 min",
+        "genre": [
+            "Drama",
+            " Mystery",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "Teddy Daniels and Chuck Aule, two US marshals, are sent to an asylum on a remote island in order to investigate the disappearance of a patient, where Teddy uncovers a shocking truth about the place.",
+        "director": "Martin Scorsese",
+        "stars": [
+            "Leonardo DiCaprio",
+            "Emily Mortimer",
+            "Mark Ruffalo",
+            "Ben Kingsley"
+        ],
+        "gross": "$128.01M"
+    },
+    {
+        "title": "Taxi Driver",
+        "year": "(1976)",
+        "rating": "8.2",
+        "age_rating": "A",
+        "duartion": "114 min",
+        "genre": [
+            "Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+        "director": "Martin Scorsese",
+        "stars": [
+            "Robert De Niro",
+            "Jodie Foster",
+            "Cybill Shepherd",
+            "Albert Brooks"
+        ],
+        "gross": "$28.26M"
+    },
+    {
+        "title": "Unforgiven",
+        "year": "(1992)",
+        "rating": "8.2",
+        "age_rating": "A",
+        "duartion": "130 min",
+        "genre": [
+            "Drama",
+            " Western"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The \"Schofield Kid.\"",
+        "director": "Clint Eastwood",
+        "stars": [
+            "Clint Eastwood",
+            "Gene Hackman",
+            "Morgan Freeman",
+            "Richard Harris"
+        ],
+        "gross": "$101.16M"
+    },
+    {
+        "title": "The Truman Show",
+        "year": "(1998)",
+        "rating": "8.2",
+        "age_rating": "U",
+        "duartion": "103 min",
+        "genre": [
+            "Comedy",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "An insurance salesman discovers his whole life is actually a reality TV show.",
+        "director": "Peter Weir",
+        "stars": [
+            "Jim Carrey",
+            "Ed Harris",
+            "Laura Linney",
+            "Noah Emmerich"
+        ],
+        "gross": "$125.62M"
+    },
+    {
+        "title": "The Thing",
+        "year": "(1982)",
+        "rating": "8.2",
+        "age_rating": "A",
+        "duartion": "109 min",
+        "genre": [
+            "Horror",
+            " Mystery",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+        "director": "John Carpenter",
+        "stars": [
+            "Kurt Russell",
+            "Wilford Brimley",
+            "Keith David",
+            "Richard Masur"
+        ],
+        "gross": "$13.78M"
+    },
+    {
+        "title": "There Will Be Blood",
+        "year": "(2007)",
+        "rating": "8.2",
+        "age_rating": "A",
+        "duartion": "158 min",
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+        "director": "Paul Thomas Anderson",
+        "stars": [
+            "Daniel Day-Lewis",
+            "Paul Dano",
+            "Ciarán Hinds",
+            "Martin Stringer"
+        ],
+        "gross": "$40.22M"
+    },
+    {
+        "title": "Der Untergang",
+        "year": "(2004)",
+        "rating": "8.2",
+        "age_rating": "UA",
+        "duartion": "156 min",
+        "genre": [
+            "Biography",
+            " Drama",
+            " History"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_UY209_CR1,0,140,209_AL_.jpg",
+        "summary": "Traudl Junge\n             \n             , the final secretary for\n             \n              Adolf Hitler\n             \n             , tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+        "director": "Oliver Hirschbiegel",
+        "stars": [
+            "Bruno Ganz",
+            "Alexandra Maria Lara",
+            "Ulrich Matthes",
+            "Juliane Köhler"
+        ],
+        "gross": "$5.51M"
+    },
+    {
+        "title": "V for Vendetta",
+        "year": "(2005)",
+        "rating": "8.2",
+        "age_rating": "UA",
+        "duartion": "132 min",
+        "genre": [
+            "Action",
+            " Drama",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "In a future British dystopian society, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow the tyrannical government - with the help of a young woman.",
+        "director": "James McTeigue",
+        "stars": [
+            "Hugo Weaving",
+            "Natalie Portman",
+            "Rupert Graves",
+            "Stephen Rea"
+        ],
+        "gross": "$70.51M"
+    },
+    {
+        "title": "Pan's Labyrinth",
+        "year": "(2006)",
+        "rating": "8.2",
+        "age_rating": "R",
+        "duartion": "118 min",
+        "genre": [
+            "Drama",
+            " Fantasy",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+        "director": "Guillermo del Toro",
+        "stars": [
+            "Ivana Baquero",
+            "Ariadna Gil",
+            "Sergi López",
+            "Maribel Verdú"
+        ],
+        "gross": "$37.63M"
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "year": "(1975)",
+        "rating": "8.2",
+        "age_rating": "U",
+        "duartion": "91 min",
+        "genre": [
+            "Adventure",
+            " Comedy",
+            " Fantasy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+        "director": "Terry Gilliam",
+        "stars": [
+            "Terry Jones",
+            "Graham Chapman",
+            "John Cleese",
+            "Eric Idle",
+            "Terry Gilliam"
+        ],
+        "gross": "$1.23M"
+    },
+    {
+        "title": "El secreto de sus ojos",
+        "year": "(2009)",
+        "rating": "8.2",
+        "age_rating": "R",
+        "duartion": "129 min",
+        "genre": [
+            "Drama",
+            " Mystery",
+            " Romance"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+        "director": "Juan José Campanella",
+        "stars": [
+            "Ricardo Darín",
+            "Soledad Villamil",
+            "Pablo Rago",
+            "Carla Quevedo"
+        ],
+        "gross": "$6.39M"
+    },
+    {
+        "title": "Ran",
+        "year": "(1985)",
+        "rating": "8.2",
+        "age_rating": "Not Rated",
+        "duartion": "160 min",
+        "genre": [
+            "Action",
+            " Drama",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+        "director": "Akira Kurosawa",
+        "stars": [
+            "Tatsuya Nakadai",
+            "Akira Terao",
+            "Jinpachi Nezu",
+            "Daisuke Ryû"
+        ],
+        "gross": "$4.14M"
+    },
+    {
+        "title": "The Elephant Man",
+        "year": "(1980)",
+        "rating": "8.2",
+        "age_rating": "UA",
+        "duartion": "124 min",
+        "genre": [
+            "Biography",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+        "director": "David Lynch",
+        "stars": [
+            "Anthony Hopkins",
+            "John Hurt",
+            "Anne Bancroft",
+            "John Gielgud"
+        ],
+        "gross": null
+    },
+    {
+        "title": "Yôjinbô",
+        "year": "(1961)",
+        "rating": "8.2",
+        "age_rating": "U",
+        "duartion": "110 min",
+        "genre": [
+            "Action",
+            " Drama",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+        "director": "Akira Kurosawa",
+        "stars": [
+            "Toshirô Mifune",
+            "Eijirô Tôno",
+            "Tatsuya Nakadai",
+            "Yôko Tsukasa"
+        ],
+        "gross": null
+    },
+    {
+        "title": "Gone Girl",
+        "year": "(2014)",
+        "rating": "8.1",
+        "age_rating": "A",
+        "duartion": "149 min",
+        "genre": [
+            "Drama",
+            " Mystery",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UY209_CR1,0,140,209_AL_.jpg",
+        "summary": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+        "director": "David Fincher",
+        "stars": [
+            "Ben Affleck",
+            "Rosamund Pike",
+            "Neil Patrick Harris",
+            "Tyler Perry"
+        ],
+        "gross": "$167.77M"
+    },
+    {
+        "title": "The Terminator",
+        "year": "(1984)",
+        "rating": "8.1",
+        "age_rating": "A",
+        "duartion": "107 min",
+        "genre": [
+            "Action",
+            " Adventure",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+        "director": "James Cameron",
+        "stars": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Michael Biehn",
+            "Paul Winfield"
+        ],
+        "gross": "$38.40M"
+    },
+    {
+        "title": "Blade Runner",
+        "year": "(1982)",
+        "rating": "8.1",
+        "age_rating": "UA",
+        "duartion": "117 min",
+        "genre": [
+            "Action",
+            " Drama",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+        "director": "Ridley Scott",
+        "stars": [
+            "Harrison Ford",
+            "Rutger Hauer",
+            "Sean Young",
+            "Edward James Olmos"
+        ],
+        "gross": "$32.87M"
+    },
+    {
+        "title": "Ah-ga-ssi",
+        "year": "(2016)",
+        "rating": "8.1",
+        "age_rating": "A",
+        "duartion": "145 min",
+        "genre": [
+            "Drama",
+            " Romance",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR2,0,140,209_AL_.jpg",
+        "summary": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+        "director": "Park Chan-wook",
+        "stars": [
+            "Kim Min-hee",
+            "Ha Jung-woo",
+            "Cho Jin-woong",
+            "Moon So-ri"
+        ],
+        "gross": "$2.01M"
+    },
+    {
+        "title": "The Big Lebowski",
+        "year": "(1998)",
+        "rating": "8.1",
+        "age_rating": "UA",
+        "duartion": "117 min",
+        "genre": [
+            "Comedy",
+            " Crime"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMzliZDk0NjctNjhlOC00MWEyLWI3OWYtNjA5ZDYxMTMzNTc5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR1,0,140,209_AL_.jpg",
+        "summary": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+        "director": "Joel Coen",
+        "stars": [
+            "Ethan Coen",
+            "Jeff Bridges",
+            "John Goodman",
+            "Julianne Moore",
+            "Steve Buscemi"
+        ],
+        "gross": "$17.50M"
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "year": "(2014)",
+        "rating": "8.1",
+        "age_rating": "UA",
+        "duartion": "99 min",
+        "genre": [
+            "Adventure",
+            " Comedy",
+            " Crime"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+        "director": "Wes Anderson",
+        "stars": [
+            "Ralph Fiennes",
+            "F. Murray Abraham",
+            "Mathieu Amalric",
+            "Adrien Brody"
+        ],
+        "gross": "$59.10M"
+    },
+    {
+        "title": "Fargo",
+        "year": "(1996)",
+        "rating": "8.1",
+        "age_rating": "A",
+        "duartion": "98 min",
+        "genre": [
+            "Crime",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR1,0,140,209_AL_.jpg",
+        "summary": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+        "director": "Joel Coen",
+        "stars": [
+            "Ethan Coen",
+            "William H. Macy",
+            "Frances McDormand",
+            "Steve Buscemi",
+            "Peter Stormare"
+        ],
+        "gross": "$24.61M"
+    },
+    {
+        "title": "Inside Out",
+        "year": "(I) (2015)",
+        "rating": "8.1",
+        "age_rating": "U",
+        "duartion": "95 min",
+        "genre": [
+            "Animation",
+            " Adventure",
+            " Comedy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+        "director": "Pete Docter",
+        "stars": [
+            "Ronnie Del Carmen",
+            "Amy Poehler",
+            "Bill Hader",
+            "Lewis Black",
+            "Mindy Kaling"
+        ],
+        "gross": "$356.46M"
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": "(1998)",
+        "rating": "8.1",
+        "age_rating": "A",
+        "duartion": "107 min",
+        "genre": [
+            "Action",
+            " Comedy",
+            " Crime"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "summary": "Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.",
+        "director": "Guy Ritchie",
+        "stars": [
+            "Jason Flemyng",
+            "Dexter Fletcher",
+            "Nick Moran",
+            "Jason Statham"
+        ],
+        "gross": "$3.90M"
+    },
+    {
+        "title": "Trainspotting",
+        "year": "(1996)",
+        "rating": "8.1",
+        "age_rating": "A",
+        "duartion": "93 min",
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out despite the allure of drugs and the influence of friends.",
+        "director": "Danny Boyle",
+        "stars": [
+            "Ewan McGregor",
+            "Ewen Bremner",
+            "Jonny Lee Miller",
+            "Kevin McKidd"
+        ],
+        "gross": "$16.50M"
+    },
+    {
+        "title": "Room",
+        "year": "(I) (2015)",
+        "rating": "8.1",
+        "age_rating": "U",
+        "duartion": "118 min",
+        "genre": [
+            "Drama",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "summary": "A little boy is held captive in a room with his mother since his birth, so he has never known the world outside.",
+        "director": "Lenny Abrahamson",
+        "stars": [
+            "Brie Larson",
+            "Jacob Tremblay",
+            "Sean Bridgers",
+            "Wendy Crewson"
+        ],
+        "gross": "$14.68M"
+    }
+]

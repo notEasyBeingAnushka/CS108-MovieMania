@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Mania</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="body_site">
+    <div class="heading">
+        <div class="search_box" id="display_movies">
+            <!-- <p>Enter the name of a movie in the search box below to get started.</p> <br> -->
+            <div>
+                <input type="text" id="search_item" placeholder="Search for a movie">
+                <!-- <button id="search">Search</button> -->
+            </div>
+            <div class="suggestions" id="suggestions"></div>
+        </div>
+        <div class="navigation">
+            <button class="nav_button small_buttons" id="filter">Filter</button>
+            <label class="nav_button" style="color:white; margin-right: 0px; padding-right:0px;">Sort By:</label>
+            <select class="nav_button small_buttons" style="margin-left: 0px;" id="sort">
+                <option value="none" selected>None</option>
+                <option value="alphabetically">Alphabetically</option>
+                <option value="rating">IMDB Rating</option>
+                <option value="year">Year</option>
+            </select>
+            <button class="nav_button small_buttons" id="register">Register</button>
+            <button class="nav_button small_buttons" id="login">Login</button>
+            <button class="nav_button" id="recommender">Recommended movies</button>
+            <br>
+            <div class="genres_for_filtering" id="genres_for_filtering">
+                <div class="filter_div_options">
+                    <input type="checkbox" id="action" value="Action">
+                    <label for="action">Action</label><br>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="adventure" value="Adventure">
+                    <label for="adventure">Adventure</label><br>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="animation" value="Animation">
+                    <label for="animation">Animation</label><br>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="comedy" value="Comedy">
+                    <label for="comedy">Comedy</label><br>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="crime" value="Crime">
+                    <label for="crime">Crime</label><br>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="drama" value="Drama">
+                    <label for="drama">Drama</label><br>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="family" value="Family">
+                    <label for="family">Family</label><br>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="fantasy" value="Fantasy">
+                    <label for="fantasy">Fantasy</label><br>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="history" value="History">
+                    <label for="history">History</label><br>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="horror" value="Horror">
+                    <label for="horror">Horror</label><br>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="music" value="Music">
+                    <label for="music">Music</label>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="mystery" value="Mystery">
+                    <label for="mystery">Mystery</label>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="romance" value="Romance">
+                    <label for="romance">Romance</label>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="sci_fi" value="Sci-Fi">
+                    <label for="science fiction">Sci-Fi</label>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="thriller" value="Thriller">
+                    <label for="thriller">Thriller</label>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="war" value="War">
+                    <label for="war">War</label>
+                </div>
+                <div class="filter_div_options">
+                    <input type="checkbox" id="western" value="Western">
+                    <label for="western">Western</label>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="display" id="container">
+
+    </div>
+    <div class="movie_display_on_double_click">
+        
+    </div>
+</body>
+<script src="script.js"></script>
+
+</html>
