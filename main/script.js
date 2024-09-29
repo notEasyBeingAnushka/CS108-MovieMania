@@ -77,8 +77,6 @@ function movie_complete_display(movie) {
     `
     return a
 }
-site = document.getElementById('search_item');
-// if (document.URL.includes('site.html')) {
 function permanent_rating_display() {
     document.querySelectorAll('.radio_movie_rating').forEach((radio_set) => {
         radio_set.querySelectorAll('input').forEach((input) => {
@@ -117,6 +115,12 @@ if (site) {
     cross_button = document.getElementById('cross_button');
     search_item.addEventListener('keyup', () => {
         cross_button.style.display = 'block';
+        cross_button.addEventListener('click', () => {
+            search_item.value = '';
+            suggestions.innerHTML = '';
+            cross_button.style.display = 'none';
+            window.location.reload();
+        });
         fetch('final_movie_details.json')
             .then(response => response.json())
             .then(data => {
@@ -252,7 +256,9 @@ if (site) {
 
         return rated_movies.length;
     }
-
+    // if(localStorage.getItem('loggedIn') === 'true') {
+        
+    // }
     let recommender_button = document.getElementById('recommender');
     recommender_button.addEventListener('click', async () => {
         let a = await ratedMoviesUpdater();
